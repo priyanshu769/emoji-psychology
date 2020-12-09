@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #0d1117;
+}
+.heading {
+  color: #e74c3c;
+}
+input {
+  padding: 0.5rem;
+  width: 50%;
+  margin: 10px;
+}
+
+.emojiContainer {
+  padding: 0.5rem;
+  letter-spacing: 1rem;
+  line-height: 3.5rem;
+  font-size: 30px;
+  max-width: 70%;
+  margin: auto;
+}
+
+.emojiContainer span {
+  cursor: pointer;
+}
+
+.result {
+  padding: 0.5rem;
+  max-width: 70%;
+  margin: auto;
+}
+
+.result span {
+  width: 300px;
+  margin: auto;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.result h2 {
+  color: #3498db;
+}
+footer {
+  color: #ffffff;
+  margin-top: 20%;
+}
+footer a {
+  text-decoration: none;
+}
